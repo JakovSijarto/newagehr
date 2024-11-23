@@ -81,7 +81,7 @@
 	body.no-scroll {overflow: auto;}
 	.error-content {max-width: 100%;width: 100%;}
 	.pager-sec {text-align: left !important;}
-	.pager-sec.pb-75 {padding-bottom: 50px;}
+	.pager-sec.pb-75 {display: none;}
 	.post-controls {margin-bottom: 0;}
 	.sidebar {margin-top: 70px;}
 	.page-content {padding-bottom: 100px;}
