@@ -2629,7 +2629,7 @@ body.no-scroll {
 	position: fixed;
 	top: 0;
 	right: -350px;
-	width: 350px;
+	width: 170px;
 	height: 100%;
 	background: #000;
 	overflow-y: auto;
