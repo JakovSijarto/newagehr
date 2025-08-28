@@ -80,9 +80,9 @@ const languageContent = {
       contactUs: "Contact Us",
       sendMessage: "Send Message",
       
-      creativeSolutions: "Creative Solutions",
+      creativeSolutions: "Websites",
       newAge: "New Age",
-      professionalWebsites: "I create professional, top-notch websites tailored to your needs.",
+      professionalWebsites: "New Age is a company that transforms outdated design into a new era of design and quality",
       viewMore: "View More",
       
       ourServices: "Our Services",
@@ -90,19 +90,19 @@ const languageContent = {
       mightInterestYou: "You might be interested in what we can offer. More services can be found below. We do everything at a high level.",
       view: "view",
       
-      socialMedia: "Social Media",
-      websiteDevelopment: "Website Development",
-      ecommerceDevelopment: "E-commerce Development",
+      socialMedia: "Website",
+      websiteDevelopment: "Web Shop",
+      ecommerceDevelopment: "Social Media",
       seo: "SEO",
       
       portfolio: "Portfolio",
       bestWorks: "Our best works",
-      seeOurPortfolio: "You can see for yourself if you look at our portfolio.",
+      seeOurPortfolio: "We always strive to implement our creative ideas at the highest level. You can see that by looking at our portfolio.",
       allWorks: "All our works",
       
       aboutUs: "A few words about us",
       whyChooseUs: "Why choose us",
-      popularInCroatia: "We have many projects for our clients that have become popular in Croatia.",
+      popularInCroatia: "We have many projects for our clients that have become popular in Europe.",
       
       modernTechnologies: "Modern Technologies",
       digitalExperience: "Vast digital experience",
@@ -146,20 +146,19 @@ const languageContent = {
       contactUs: "Kontaktirajte Nas",
       sendMessage: "Pošalji poruku",
       
-      creativeSolutions: "Creativne solucije",
+      creativeSolutions: "Web stranice",
       newAge: "New Age",
-      professionalWebsites: "Izrađujem profesionalne, vrhunske web stranice prilagođene vašim potrebama.",
+      professionalWebsites: "New age je firma koja zastarjeli dizajn pretvara u novu eru dizajn i kvalitete",
       viewMore: "Pogledaj više",
       
       ourServices: "naše usluge",
-      weDoEverything: "Mi radimo sve",
-      mightInterestYou: "Možda će vas zanimati što vam možemo ponuditi. Više usluga možete pronaći u nastavku. Sve radimo na visokoj razini.",
+      weDoEverything: "Pogledajte što nudimo",
+      mightInterestYou: "Sve što radimo, radimo samo na visokoj razini",
       view: "pogledaj.",
       
-      socialMedia: "Socijalne mreže",
-      websiteDevelopment: "Izrada web stranica",
-      ecommerceDevelopment: "Izrada webshopova",
-      seo: "SEO pretraživanje",
+      socialMedia: "Web stranice",
+      websiteDevelopment: "Web shop",
+      ecommerceDevelopment: "Socijalne mreže",
       
       portfolio: "Portfolio",
       bestWorks: "Naši najbolji radovi",
@@ -168,12 +167,12 @@ const languageContent = {
       
       aboutUs: "par riječi o nama",
       whyChooseUs: "Zašto izabrati nas",
-      popularInCroatia: "Imamo mnogo projekata za naše klijente koji su postali popularni u Hrvatskoj.",
+      popularInCroatia: "Imamo klijente širom cijele europe i mnogi od njih cijene naš trud i rad. Dobili so puno pohvala za naš rad",
       
       modernTechnologies: "Moderne Tehnologije",
-      digitalExperience: "Ogromno digitalno iskustvo",
-      modernSolutions: "Mi omogućujemo moderna rješenja uz prikladne solucije za Vaš brand.",
-      yearsOfExperience: "Naša tvrtka već 3 godine razvija digitalne proizvode. Dobili smo puno pohvala za naš rad.",
+      digitalExperience: "Digitalna iskustva ",
+      modernSolutions: "Moderna rješenja za vaš brand u bilo kojem smislu",
+      yearsOfExperience: "Naša tvrtka već 3 godine razvija digitalne proizvode.",
       
       address: "Adresa:",
       contactUsHeader: "Javite nam se",
@@ -185,7 +184,7 @@ const languageContent = {
       emailPlaceholder: "Email",
       messagePlaceholder: "Poruka",
       
-      footerCopyright: "Copyright © 2024 NewAge.",
+      footerCopyright: "Copyright © 2025 NewAge.",
       footerAvailable: "Kada smo dostupni:",
       footerAddress: "Adresa:",
       footerContact: "Javite nam se:",
